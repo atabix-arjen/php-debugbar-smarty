@@ -9,6 +9,7 @@
             "email": "dk-junker@ya.ru"
         }
     ],
+    "minimum-stability": "dev",
     "autoload": {
         "psr-0" : {
             "Junker" : "src/"
