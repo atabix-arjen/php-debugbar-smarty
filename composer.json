@@ -5,8 +5,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Dmitry Kosenkov",
-            "email": "dk-junker@ya.ru"
+            "name": "Arjen Bos",
+            "email": "arjen.bos@atabix.nl"
         }
     ],
     "minimum-stability": "dev",
